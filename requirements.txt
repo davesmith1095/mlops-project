@@ -1,0 +1,14 @@
+pandas
+scikit-learn
+mlflow
+fastapi
+uvicorn
+shap
+matplotlib
+requests
+httpx
+pytest
+python-multipart
+# PINNED VERSIONS TO PREVENT CRASHES
+numpy<2.0
+protobuf<5.0
